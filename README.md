@@ -13,7 +13,7 @@ Pau Bermúdez Valle 1604190
 
 **Sinopsis de archivos:**
 
-- generateCustomDataset.py utiliza videos de nuestras caras para generarnos un dataset propio con el que haremos futuros entrenamientos.
+- generateCustomDataset.py utiliza vídeos de nuestras caras para generarnos un dataset propio con el que haremos futuros entrenamientos.
 
 - HOG_RandomForest_OneVsAllRegression.py utiliza nuestro dataset para entrenar un modelo de random forest y one vs all regression para predecir la dirección de la mirada de forma general.
 
@@ -23,9 +23,9 @@ Pau Bermúdez Valle 1604190
 
 - eyeSegmentation.py utiliza nuestro dataset para segmentar los ojos en imágenes de nuestras caras.
 
-- eyeTracking_Basic.py captura en tiempo real el video de nuestra webcam y determina la dirección de la mirada de forma general utilizando modelos pre entrenados y thresholding de la pupila.
+- eyeTracking_Basic.py captura en tiempo real el vídeo de nuestra webcam y determina la dirección de la mirada de forma general utilizando modelos pre entrenados y thresholding de la pupila.
 
-- eyeTracking_SightVectors.py captura en tiempo real el video de nuestra webcam y con ayuda de nuestro regresor nos dibuja el vector de dirección de la mirada.
+- eyeTracking_SightVectors.py captura en tiempo real el vídeo de nuestra webcam y con ayuda de nuestro regresor nos dibuja el vector de dirección de la mirada.
 
 
 **Sinopsis de carpetas:**
@@ -36,7 +36,7 @@ Pau Bermúdez Valle 1604190
 
 - ourTrainedModels contiene los modelos que nosotros mismos hemos entrenado y generado.
 
-- input contiene imágenes que utilizamos como entrada en algunos de nuestros codigos.
+- input contiene imágenes que utilizamos como entrada en algunos de nuestros códigos.
 
 - output contiene las imágenes resultantes de algunos de nuestros códigos.
 
