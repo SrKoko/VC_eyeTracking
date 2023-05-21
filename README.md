@@ -1,17 +1,17 @@
 # VC_eyeTracking
 
-**UAB 2023 - Visión por Computación
-**Proyecto sobre eye recognition and tracking
+## UAB 2023 - Visión por Computación
+### Proyecto sobre eye recognition and tracking
 
 
-**Miembros:
+**Miembros:**
 
 Samya Karzazi El Bachiri 1568589
 José Francisco Aguilera Oliver 1601361
 Pau Bermúdez Valle 1604190
 
 
-**Sinopsis de archivos:
+**Sinopsis de archivos:**
 
 - generateCustomDataset.py utiliza videos de nuestras caras para generarnos un dataset propio con el que haremos futuros entrenamientos.
 
@@ -28,7 +28,7 @@ Pau Bermúdez Valle 1604190
 - eyeTracking_SightVectors.py captura en tiempo real el video de nuestra webcam y con ayuda de nuestro regresor nos dibuja el vector de dirección de la mirada.
 
 
-**Sinopsis de carpetas:
+**Sinopsis de carpetas:**
 
 - datasets contiene todos los datasets utilizados en los entrenamientos.
 
