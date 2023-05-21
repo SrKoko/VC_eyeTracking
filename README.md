@@ -6,8 +6,8 @@
 
 **Miembros:**
 
-Samya Karzazi El Bachiri 1568589
-José Francisco Aguilera Oliver 1601361
+Samya Karzazi El Bachiri 1568589,
+José Francisco Aguilera Oliver 1601361,
 Pau Bermúdez Valle 1604190
 
 
