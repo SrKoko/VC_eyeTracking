@@ -15,7 +15,7 @@ Pau Bermúdez Valle 1604190
 
 - generateCustomDataset.py utiliza vídeos de nuestras caras para generarnos un dataset propio con el que haremos futuros entrenamientos.
 
-- HOG_RandomForest_OneVsAllRegression.py utiliza nuestro dataset para entrenar un modelo de random forest y one vs all regression para predecir la dirección de la mirada de forma general.
+- HOG_RandomForest_OneVsAll_SVM_Regression.py utiliza nuestro dataset para entrenar un modelo de random forest, one vs all y support vector machine regression para predecir la dirección de la mirada de forma general.
 
 - SightDirection_Regressor.py entrena un regresor capaz de determinar el vector de dirección de la mirada, utiliza un dataset generado a partir de una app en unity de internet que crea grandes datasets de ojos con sus respectivas landmarks.
 
